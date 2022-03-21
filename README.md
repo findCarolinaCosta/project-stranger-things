@@ -84,8 +84,8 @@ Adapte e configure os projetos descritos nesse *README* para que seja feito o de
 
 ## Data de entrega
 
-  - Serão `X` dias de projeto.
-  - Data de entrega para avaliação final do projeto: `DD/MM/YYYY - 14:00h`.
+  - Serão `1` dias de projeto.
+  - Data de entrega para avaliação final do projeto: `28/03/2022 - 14:00h`.
 
 # Instruções para entregar seu projeto:
 
